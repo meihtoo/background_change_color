@@ -1,0 +1,15 @@
+body{
+    background-color: purple;
+}
+
+#main{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+
+#generateBtn{
+    height : 35px;
+    border-radius:  5px;;
+}
